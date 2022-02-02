@@ -1,0 +1,15 @@
+1.- Después de que instalaron MongoDB en sus computadoras abren el CMD  en modo administrador para evitar problemas
+
+2.- Nos dirigimos a la carpeta donde guardamos la base de datos.
+
+3.- Ponemos "mongo"
+
+4.- Ahora el comando siguientes es "mongorestore --db BD_Proyecto"
+
+y listo con eso restauramos la base de datos.
+
+NOTA
+
+Puede haber casos donde no tengan los comandos instalados, si es asi se van a este link https://docs.mongodb.com/database-tools/
+
+Buscan su SO, lo instalan lo agregan al path, reinician y listo.
