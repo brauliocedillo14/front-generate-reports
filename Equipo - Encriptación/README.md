@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
-##Paqueteria instalada
+## Paqueteria instalada
 Las dependencias instaladas en este proyecto :
 
 -`npm install crypto-js –save`
