@@ -18,18 +18,27 @@ Para correr el proyecto en terminal `ng serve` bastara con ir al directorio `htt
 
 Ejecute 'ng build' para compilar el proyecto. Los artefactos de compilación se almacenarán en el directorio 'dist/'. Utilice el indicador '--prod' para una compilación de producción.
 
-##
+## Parte Backend
+
+## Parte Frontend
 La primera parte es la de cifrado que contendra las siguientes partes :
 
 -Una caja para el texto que vamos a cifrar
+
 -Una caja para meter la clave
+
 -Un textarea para mostrar el texto ya cifrado
+
 -Un boton para llamar a la funcion de convertirTexto pasandole un valor «encriptar»
+
 -La segunda parte es la de descifrado y contendra las siguientes partes
 
 -Una caja para meter el texto que queremos descifrar
--Una caja para meter la clave usada en el cifrado y que usaremos en esta caja para descifrar el mensaje
+
+-Una caja para meter la clave usada en el cifrado y que usaremos en esta caja para descifrar el mensaje.
+
 -Un textare que nos mostrara el mensaje descifrado
+
 -Un boton para llamar a la funcion convertirTexto pasandole un valor «desencriptar»
 
 
